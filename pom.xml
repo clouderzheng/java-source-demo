@@ -10,6 +10,7 @@
     <modules>
 
         <module>collection</module>
+        <module>thread</module>
     </modules>
     <packaging>pom</packaging>
 
