@@ -83,7 +83,8 @@ volatile变量是一种稍弱的同步机制，在访问volatile变量时不会�
 
 在需要同步时，第一选择应该是synchronized或者lock，这是最安全的方式，尝试其他任何方式都是有风险的。
 
-
+#### 参考
+- [volatile原理](https://mp.weixin.qq.com/s?__biz=MzI3NzM2OTQ5Mg==&mid=2247484289&idx=1&sn=bdf6721e01c613bfb1458a8584e80800&chksm=eb66047adc118d6c395c14e5b953686bfdfac93fd6fa8c0731bb89aadd7437bba800d034659d&scene=21#wechat_redirect)
 
 
 
