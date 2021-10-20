@@ -85,6 +85,7 @@ volatile变量是一种稍弱的同步机制，在访问volatile变量时不会�
 
 #### 参考
 - [volatile原理](https://mp.weixin.qq.com/s?__biz=MzI3NzM2OTQ5Mg==&mid=2247484289&idx=1&sn=bdf6721e01c613bfb1458a8584e80800&chksm=eb66047adc118d6c395c14e5b953686bfdfac93fd6fa8c0731bb89aadd7437bba800d034659d&scene=21#wechat_redirect)
-
+- [synchronized原理](https://mp.weixin.qq.com/s?__biz=MzI3NzM2OTQ5Mg==&mid=2247484280&idx=1&sn=8de305338c5ab348c3e2a784084e4306&chksm=eb660483dc118d95e9bcde15a01103f818ed2fd399989f36dc2d57740a305e91cf986d4f5a64&scene=21#wechat_redirect)
+- [Java内存模型（JMM）](https://zhuanlan.zhihu.com/p/29881777)
 
 
