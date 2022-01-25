@@ -12,8 +12,8 @@
         <module>collection</module>
         <module>thread</module>
         <module>concurrent</module>
-        <module>untitled</module>
         <module>lock</module>
+        <module>gc</module>
     </modules>
     <packaging>pom</packaging>
     <build>
